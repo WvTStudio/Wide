@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ScrollableView-->
+    <dimen name="default_scrollbar_width">5dp</dimen>
+    <color name="default_scrollbar_color">#757575</color>
+    <dimen name="default_scrollbar_radius">2.5dp</dimen>
+    <dimen name="default_vertical_scrollbar_margin_right">4dp</dimen>
+    <dimen name="default_vertical_scrollbar_margin_top">4dp</dimen>
+    <dimen name="default_vertical_scrollbar_margin_bottom">8dp</dimen>
+    <dimen name="default_horizontal_scrollbar_margin_bottom">4dp</dimen>
+    <dimen name="default_horizontal_scrollbar_margin_right">8dp</dimen>
+    <dimen name="default_horizontal_scrollbar_margin_left">4dp</dimen>
+    <bool name="default_scrollbar_auto_fade">true</bool>
+    <integer name="default_scrollbar_auto_fade_time">3000</integer>
+    <dimen name="default_scrollbar_touch_error">5dp</dimen>
+    <!--EditableTextView-->
+    <dimen name="default_text_size">16sp</dimen>
+    <color name="default_text_color">#000000</color>
+    <dimen name="default_row_spacing">5dp</dimen>
+</resources>

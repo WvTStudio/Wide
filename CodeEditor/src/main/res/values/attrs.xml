@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollableView">
+        <attr name="scrollBarColor" format="color" />
+        <attr name="scrollBarSize" format="dimension" />
+        <attr name="scrollBarRadius" format="dimension" />
+        <attr name="verticalScrollBarMarginRight" format="dimension" />
+        <attr name="verticalScrollBarMarginTop" format="dimension" />
+        <attr name="verticalScrollBarMarginBottom" format="dimension" />
+        <attr name="horizontalScrollBarMarginBottom" format="dimension" />
+        <attr name="horizontalScrollBarMarginRight" format="dimension" />
+        <attr name="horizontalScrollBarMarginLeft" format="dimension" />
+        <attr name="scrollBarAutoFade" format="boolean" />
+        <attr name="scrollBarAutoFadeTime" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="EditableTextView">
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color" />
+        <attr name="rowSpacing" format="dimension"/>
+        <attr name="text" format="string"/>
+    </declare-styleable>
+</resources>
